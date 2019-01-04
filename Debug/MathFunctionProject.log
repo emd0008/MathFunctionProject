@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\emily\documents\visual studio 2017\projects\mathfunctionproject\mathfunctionproject\main.cpp(15): warning C4101: 'f_y': unreferenced local variable
+c:\users\emily\documents\visual studio 2017\projects\mathfunctionproject\mathfunctionproject\main.cpp(16): warning C4101: 'f_h': unreferenced local variable
+c:\users\emily\documents\visual studio 2017\projects\mathfunctionproject\mathfunctionproject\main.cpp(13): warning C4101: 'd_h': unreferenced local variable
+c:\users\emily\documents\visual studio 2017\projects\mathfunctionproject\mathfunctionproject\main.cpp(10): warning C4101: 'i_y': unreferenced local variable
+c:\users\emily\documents\visual studio 2017\projects\mathfunctionproject\mathfunctionproject\main.cpp(9): warning C4101: 'i_x': unreferenced local variable
+  MathFunctionProject.vcxproj -> C:\Users\Emily\Documents\Visual Studio 2017\Projects\MathFunctionProject\Debug\MathFunctionProject.exe
+  MathFunctionProject.vcxproj -> C:\Users\Emily\Documents\Visual Studio 2017\Projects\MathFunctionProject\Debug\MathFunctionProject.pdb (Partial PDB)
