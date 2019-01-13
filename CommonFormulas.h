@@ -23,7 +23,7 @@ double octAreaFormula(double a);
 double cirAreaFormula(double r);
 
 //Cube Volume Formula
-float cubeVolFomula(float a);
+float cubeVolFormula(float a);
 //Rectangle Prism Volume Formula
 float rectVolFormula(float a, float b, float c);
 //Pyramid Volume Formula

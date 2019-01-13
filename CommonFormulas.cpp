@@ -63,7 +63,7 @@ double cirAreaFormula(double r) {
 	return result;
 }
 
-float cubeVolFomula(float a) {
+float cubeVolFormula(float a) {
 	return (a * a * a);
 }
 
