@@ -2,6 +2,9 @@
 #ifndef BASIC_H
 #define BASIC_h
 
+//Main Basic Function
+void basicFunction();
+
 //Addition Function
 int additionFunc(int x, int y);
 //Subtraction Function

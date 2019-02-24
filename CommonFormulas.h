@@ -2,6 +2,9 @@
 #ifndef COMMON_H
 #define COMMON_h
 
+//Main Common Function
+void commonFunction();
+
 //Circumference Formula
 float circumFormula(float d);
 
