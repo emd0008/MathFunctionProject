@@ -1,6 +1,2 @@
-﻿  Basic.cpp
-c:\users\emily\documents\visual studio 2017\projects\mathfunctionproject\mathfunctionproject\basic.cpp(47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\emily\documents\visual studio 2017\projects\mathfunctionproject\mathfunctionproject\basic.cpp(50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\emily\documents\visual studio 2017\projects\mathfunctionproject\mathfunctionproject\basic.cpp(97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  MathFunctionProject.vcxproj -> C:\Users\Emily\documents\visual studio 2017\Projects\MathFunctionProject\Debug\MathFunctionProject.exe
+﻿  MathFunctionProject.vcxproj -> C:\Users\Emily\documents\visual studio 2017\Projects\MathFunctionProject\Debug\MathFunctionProject.exe
   MathFunctionProject.vcxproj -> C:\Users\Emily\documents\visual studio 2017\Projects\MathFunctionProject\Debug\MathFunctionProject.pdb (Partial PDB)

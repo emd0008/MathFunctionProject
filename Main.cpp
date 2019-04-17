@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
-#include "Basic.h"
+#include "BasicFormulas.h"
 #include "CommonFormulas.h"
+#include "TestingMode.h"
 
 using namespace std;
 
@@ -14,8 +15,9 @@ int main() {
 	bool basic, common, run = true;
 
 	while (run){
-		cout << "Do you want to do basic functions or common formulas?" << endl;
+		cout << "\nDo you want to do basic functions or common formulas?" << endl;
 		cout << "Type 'Basic' for basic funcions. Type 'Common' for common formulas" << endl;
+		cout << "Type 'Testing' for testing mode" << endl;
 		cout << "Type 'Quit' to stop the program." << endl;
 		getline(cin, input_str);
 
@@ -24,6 +26,9 @@ int main() {
 		}
 		else if (input_str == "Common") {
 			commonFunction();
+		}
+		else if (input_str == "Testing") {
+			testingFunction();
 		}
 		else if (input_str == "Quit") {
 			run = false;

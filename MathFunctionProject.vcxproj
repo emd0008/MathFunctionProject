@@ -111,13 +111,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Basic.h" />
+    <ClInclude Include="BasicFormulas.h" />
     <ClInclude Include="CommonFormulas.h" />
+    <ClInclude Include="TestingMode.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Basic.cpp" />
+    <ClCompile Include="BasicFormulas.cpp" />
     <ClCompile Include="CommonFormulas.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="TestingMode.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

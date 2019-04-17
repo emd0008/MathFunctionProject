@@ -18,6 +18,6 @@ double powerFunc(double x, int y);
 //Fraction Function
 double fractionFunc(double x);
 //Root Function
-double rootFunc(double x, double y);
+double rootFunc(double x);
 
 #endif
